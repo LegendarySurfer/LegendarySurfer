@@ -1,8 +1,2 @@
 
-```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Java],
-  tools: [React],
-}
-```
+https://github-readme-stats.vercel.app/api?username=LegendarySurfer
