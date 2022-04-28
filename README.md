@@ -23,7 +23,3 @@
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=legendarysurfer&show_icons=true&locale=en" alt="legendarysurfer" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=legendarysurfer&" alt="legendarysurfer" /></p>
-
-
-[![LegendarySurfer 's GitHub stats](https://github-readme-stats.vercel.app/api?username=LegendarySurfer)](https://github.com/anuraghazra/github-readme-stats)
-
