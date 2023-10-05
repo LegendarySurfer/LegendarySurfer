@@ -13,7 +13,7 @@
 <!-- BREVE DESCRIPCION -->
 - 📚 I am currently studying at [CPIFP Los Enlaces](https://cpilosenlaces.com/)
 
-- 🌱 I am currently in the race **cross-platform application development**
+- 🌱 I am in a superior degree **cross-platform application development**
 
 - 📫 How to reach me **pablo19jul116@gmail.com**
 
