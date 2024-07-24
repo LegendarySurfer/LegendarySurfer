@@ -38,7 +38,9 @@
   <a href="https://www.microsoft.com/es-es/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/2813f7b2-de6b-45e4-a5e6-9f740e359fa2" alt="excel" width="40" height="40"/> </a> 
   <a href="https://make.powerapps.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/03272a69-afc0-41db-98c0-1eaae297958c" alt="powerApps" width="40" height="40"/> </a>
   <a href="https://make.powerautomate.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/88606992-e0cd-4b98-be30-dfe973ab5ceb" alt="powerAutomate" width="40" height="40"/> </a>
-  <a href="https://learn.microsoft.com/es-es/sharepoint/dev/spfx/set-up-your-development-environment" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/40831449-4b25-410a-a22f-160697c32ef8" alt="spfx" width="40" height="40"/> 
+  <a href="https://learn.microsoft.com/es-es/sharepoint/dev/spfx/set-up-your-development-environment" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/40831449-4b25-410a-a22f-160697c32ef8" alt="spfx" width="40" height="40"/>
+  <a href="https://www.microsoft.com/es-es/microsoft-teams/log-in" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/a4679715-18a4-4d88-ac12-c934d24aa7d1" alt="teams" width="40" height="40"/> 
+
   </a> 
    
 <a href="https://www.microsoft.com/es-es/microsoft-365/sharepoint/collaboration" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/6addc739-fb1a-48cd-a251-a7fecb00ad45" alt="sharepoint" width="40" height="40"/> </a>
