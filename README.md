@@ -11,7 +11,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=legendarysurfer" alt="legendarysurfer" /></a> </p>
 
 <!-- BREVE DESCRIPCION -->
-- 📚 I am currently studying at [CPIFP Los Enlaces](https://cpilosenlaces.com/)
+- 📚 Study in [CPIFP Los Enlaces](https://cpilosenlaces.com/)
 
 - 🌱 I am in a superior degree **cross-platform application development**
 
